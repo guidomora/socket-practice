@@ -1,0 +1,3 @@
+Sockets: permiten tener una comunicacion activa activa entre la maquina cliente y el servidor, ser notificados en tiempo real cuando algo sucede. Pueden disparar eventos personalizados.
+
+Socket.io es una herramienta que facilita la creacion y manejo de websockets. Es como express para los rest servers
